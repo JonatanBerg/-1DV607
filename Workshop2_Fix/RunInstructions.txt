@@ -1,0 +1,2 @@
+How to run the .jar file:
+Open the command prompt -> navigate to the .jar file -> type "java -jar fileName.jar"
